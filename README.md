@@ -31,6 +31,12 @@ class Developer {
 
 <br clear="right"/>
 
+<div align="center">
+<a href="https://drive.google.com/file/d/1ucNp8ZDditxQjUyR0aBzKgcQ6QwfVTQT/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/📄_Download_My_Resume-6C63FF?style=for-the-badge&logoColor=white" alt="Resume" />
+</a>
+</div>
+
 ---
 
 ## 🛠️ Tech Arsenal
@@ -121,18 +127,16 @@ class Developer {
 
 <br>
 
-📄 **[Download My Resume](https://drive.google.com/file/d/1ucNp8ZDditxQjUyR0aBzKgcQ6QwfVTQT/view?usp=drive_link)**
-
-<br>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
 
-💭 Quote of the Day
+## 💭 Quote of the Day
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 <br>
 <img src="https://komarev.com/ghpvc/?username=sejalmutha126&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views" />
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-⚡ Fun Fact
+
+
+### ⚡ ⚡ Fun Fact
 "Code is like humor. When you have to explain it, it's bad!" - Cory House
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 </div>
