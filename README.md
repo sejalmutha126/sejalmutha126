@@ -1,142 +1,112 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2f855a&height=200&section=header&text=Sejal%20Madanlal%20Mutha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20%26%20Android%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18"/>
 
-# 👋 Hi, I'm Sejal Mutha
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=From+Concept+to+Production;Building+with+Python+%26+React;Exploring+Machine+Learning+%26+Agentic+AI" alt="Typing SVG" />
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%40+SPPU;Android+%26+Front-End+Developer;Problem+Solver+%7C+DSA+Enthusiast;Building+Amazing+Applications!" alt="Typing SVG" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sejalmutha126&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sejalmutha126@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-c14438?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://sejalmuthaportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2f855a?style=flat&logo=netlify&logoColor=white"/></a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
-## 💫 About Me
-
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```cpp
-class Developer {
-    string name = "Sejal Mutha";
-    string location = "Pune, Maharashtra 🇮🇳";
-    string role = "3rd Year | Computer Engineering @ SPPU";
-    
-    vector<string> skills = {"Java", "C++", "DSA", "OOP", "Android"};
-    vector<string> learning = {"AI/ML", "Frameworks"};
-    
-    void about() {
-        cout << "💻 Passionate about problem-solving" << endl;
-        cout << "🚀 Building scalable applications" << endl;
-        cout << "📚 Continuous learner & tech enthusiast" << endl;
-    }
-};
-```
-
-<br clear="right"/>
-
-<div align="center">
-<a href="https://drive.google.com/file/d/1ucNp8ZDditxQjUyR0aBzKgcQ6QwfVTQT/view?usp=drive_link">
-  <img src="https://img.shields.io/badge/📄_Download_My_Resume-6C63FF?style=for-the-badge&logoColor=white" alt="Resume" />
-</a>
-</div>
+<p align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?type=horizontal&theme=default&border=true" alt="Random dev quote"/>
+</p>
 
 ---
 
-## 🛠️ Tech Arsenal
 
-<div align="center">
+### 👀 About Me
 
-### Programming Languages
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### Frameworks & Technologies
-<p>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
-</div>
+- 🔭 Currently building **[Jobify](https://github.com/sejalmutha126/jobify)**
+- 🌱 Currently learning **Machine Learning, Agentic AI & Generative AI**
+- 💼 Actively looking for **Software/Web/Android Developer** roles
+- 💬 Ask me about **Python, React, Web & Android Development**
+- 📄 [View my resume / experience](https://drive.google.com/file/d/1NOtBRksZgI7ue85QLqAI8Yw90llW5MJB/view?usp=drive_link)
+- 📫 **sejalmutha126@gmail.com**
 
 ---
 
-<div align="center">
+### 🛠️ Core Tech Stack
 
-## 📊 GitHub Statistics
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=sejalmutha126&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&rank_icon=github" alt="GitHub Stats" />
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sejalmutha126&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sejalmutha126&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=1a1b27&title_color=6C63FF&text_color=ffffff" alt="Top Languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sejalmutha126&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%" />
-
-### 🏆 Achievements & Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=sejalmutha126&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-### Social Links
-<p>
-<a href="https://linkedin.com/in/sejal mutha">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/@MuthaSejal64517">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://github.com/sejalmutha126">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:sejalmutha@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+**Languages**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="36" height="36"/>
 </p>
 
-### Competitive Programming Profiles
-<p>
-<a href="https://leetcode.com/sejalmutha">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-<a href="https://codechef.com/users/sejalmutha_126">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-</a>
-<a href="https://hackerrank.com/@sejalmutha126">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
-</a>
+**Web & Mobile**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original-wordmark.svg" alt="flutter" width="36" height="36"/>
 </p>
 
+**Data & ML**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>
+</p>
+
+**Tools**
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="36" height="36"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="36" height="36"/>
+</p>
+
+<details>
+<summary><b>See full stack</b> (Flask, Ruby, Rust, PHP, C#, Vue, Bootstrap, PostgreSQL, SQLite, Seaborn)</summary>
 <br>
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="36" height="36"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="36" height="36"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="36" height="36"/>
+</p>
+</details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
+---
 
-## 💭 Quote of the Day
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-<br>
-<img src="https://komarev.com/ghpvc/?username=sejalmutha126&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views" />
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+### 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sejalmutha126/sejalmutha126/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
+</p>
 
-### ⚡ ⚡ Fun Fact
-"Code is like humor. When you have to explain it, it's bad!" - Cory House
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
-</div>
+> ⚙️ **One-time setup needed** — this snake only animates once a GitHub Action generates it for your account. I've included the exact workflow file below; add it once and it runs automatically forever after.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sejalmutha126&show_icons=true&locale=en&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sejalmutha126&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sejalmutha126&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+
+<p align="center"><i>Open to Software Development, Web Development, AI/ML and Android roles — let's connect!</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2f855a,100:0e75b6&height=100&section=footer"/>
