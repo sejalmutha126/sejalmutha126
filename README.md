@@ -1,8 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2f855a&height=200&section=header&text=Sejal%20Madanlal%20Mutha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20%26%20Android%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18"/>
+<h1 align="center">Sejal Madanlal Mutha</h1>
+<h3 align="center">Web & Android Developer &nbsp;|&nbsp; AI/ML Enthusiast &nbsp;|&nbsp; From Concept to Production</h3>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=From+Concept+to+Production;Building+with+Python+%26+React;Exploring+Machine+Learning+%26+Agentic+AI" alt="Typing SVG" />
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=From+Concept+to+Production;Building+with+Python+%26+React;Exploring+Machine+Learning+%26+Agentic+AI" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sejalmutha126&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -11,12 +12,7 @@
   <a href="https://sejalmuthaportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2f855a?style=flat&logo=netlify&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?type=horizontal&theme=default&border=true" alt="Random dev quote"/>
-</p>
-
 ---
-
 
 ### 👀 About Me
 
@@ -84,29 +80,12 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sejalmutha126/sejalmutha126/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
-</p>
-
-> ⚙️ **One-time setup needed** — this snake only animates once a GitHub Action generates it for your account. I've included the exact workflow file below; add it once and it runs automatically forever after.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sejalmutha126&show_icons=true&locale=en&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sejalmutha126&layout=compact&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sejalmutha126&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=sejalmutha126&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
 
-<p align="center"><i>Open to Software Development, Web Development, AI/ML and Android roles — let's connect!</i></p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2f855a,100:0e75b6&height=100&section=footer"/>
+<p align="center"><i>Open to Software Development, Web Development, and Android roles — let's connect!</i></p>
